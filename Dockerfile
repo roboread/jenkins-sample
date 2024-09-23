@@ -1,4 +1,4 @@
-FROM harbor.cn/library/golang:latest
+FROM golang
 ADD . /go/src/app
 
 WORKDIR /go/src/app
