@@ -1,4 +1,4 @@
-FROM 192.168.40.62/library/golang:latest
+FROM golang
 
 ADD . /go/src/app
 
