@@ -1,0 +1,6 @@
+{
+ "registry-mirrors":["https://0ph368mu.mirror.aliyuncs.com","https://registry.docker-cn.com","https://docker.mirrors.ustc.edu.cn","https://dockerhub.azk8s.cn","http://hub-mirror.c.163.com","http://qtid6917.mirror.aliyuncs.com", "https://rncxm540.mirror.aliyuncs.com","https://mirror.ccs.tencentyun.com","https://docker.nju.edu.cn","https://docker.m.daocloud.io"],
+  "exec-opts": ["native.cgroupdriver=systemd"],
+"insecure-registries": ["192.168.40.62","harbor.cn"]
+}
+
