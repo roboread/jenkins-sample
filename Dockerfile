@@ -1,5 +1,5 @@
-FROM 192.168.40.62/library/golang:latest
-COPY ./daemon.json /etc/docker/daemon.json
+FROM golang:latest
+
 
 ADD . /go/src/app
 
